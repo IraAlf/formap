@@ -1,0 +1,9 @@
+{
+    "UrlTemplate" : "https://dev-nginx.piklema.com/geoserver/gwc/service/wmts?SERVICE=WMTS&REQUEST=GetTile&VERSION=1.0.0&LAYER=combined_light&STYLE=&FORMAT=image/png&TILEMATRIXSET=EPSG:900913&TILEMATRIX=EPSG:900913:",
+    "ImageFormat" : "png",
+    "QImageFormat" : "Indexed8",
+    "ID" : "thf-cycle",
+    "MaximumZoomLevel" : 20,
+    "MapCopyRight" : "<a href='http://www.thunderforest.com/'>Thunderforest</a>",
+    "DataCopyRight" : "<a href='http://www.openstreetmap.org/copyright'>OpenStreetMap</a> contributors"
+}
